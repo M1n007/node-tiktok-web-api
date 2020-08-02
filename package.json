@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M1n007/node-tiktok-web-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tiktok api",
+    "tiktok web api",
+    "tiktok private api",
+    "node tiktok web api"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
